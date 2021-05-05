@@ -10,7 +10,12 @@ Registered User
   8.Email notification once the user placed order.//CR03
   9.Email notification once the user has signed up.//CR04
   10.Improvement on order history UI.//CR05
-  11.
+  11.Allow users to give ratings of the products.//CR06
+  12.Allow user to chat online with help support.//CR07
+  13.UI design improvement.//CR08
+  14.Allow users to view ratings and reviews of the products.//CR09
+  15.Logistics features for stock tracking notifications.//CR10
+
 Non-registered User
   1.Can register.
   2.View catalogue.
