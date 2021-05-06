@@ -5,7 +5,12 @@ Registered User
   3.Can make online payment through PayPal after checkout.
   4.Can check order history.
   5.Can change their profile setting.
-
+  6.Able to log in via Google account, Facebook or Email.//CR01
+  7.Able to make online payment using debit card and credit card.//CR02
+  8.Email notification once the user placed order.//CR03
+  9.Email notification once the user has signed up.//CR04
+  10.Improvement on order history UI.//CR05
+  11.
 Non-registered User
   1.Can register.
   2.View catalogue.
