@@ -132,5 +132,4 @@ $(document).ready(function(){
             }}); // closing ajax request
     }); // closing qty down button
 
-
 });

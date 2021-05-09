@@ -1,7 +1,7 @@
 <?php
 ob_start();
 // include header.php file
-include ('header.php');
+include ('loggedin_header.php');
 ?>
 
 <?php
@@ -16,7 +16,7 @@ include ('header.php');
 
 
     /*  include top sale section */
-        include ('Template/_new-phones.php');
+        include ('Template/_new.php');
     /*  include top sale section */
 
 ?>

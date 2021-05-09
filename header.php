@@ -37,23 +37,25 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav m-auto font-rubik">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">On Sale</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="mac.php">Mac</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Category</a>
+                    <a class="nav-link" href="ipad.php">iPad</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Products <i class="fas fa-chevron-down"></i></a>
+                    <a class="nav-link" href="iphone.php">iPhone</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Blog</a>
+                    <a class="nav-link" href="watch.php">Watch</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Category <i class="fas fa-chevron-down"></i></a>
+                    <a class="nav-link" href="tv.php">TV</a>
                 </li>
+            </ul>
+            <ul class="navbar-nav font-poppins">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Coming Soon</a>
+                    <a class="nav-link" href="login.php">Log In  </a>
                 </li>
             </ul>
             <form action="#" class="font-size-14 font-rale">
@@ -65,15 +67,6 @@
         </div>
     </nav>
     <!-- !Primary Navigation -->
-
-    <!-- white strip -->
-    <div class="strip d-flex justify-content-center px-4 py-1 bg-light">
-        <p class="font-rale font-size-12 text-black-100 m-0"><a href="#">Shop online</a> for fast, free delivery. Click here for <a href="#">support.</a></p>
-        <!-- <div class="font-rale font-size-14">
-            <a href="#" class="px-3 border-right border-left text-dark">Login</a>
-            <a href="#" class="px-3 border-right text-dark">Whishlist (0)</a>
-        </div> -->
-    </div>
 
 </header>
 <!-- !start #header -->

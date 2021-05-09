@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 /*              Sass Template           */
 /*  global classes  */
 button, button:focus {
@@ -6,18 +7,22 @@ button, button:focus {
     box-shadow: none !important;
 }
 
+* {
+    font-family: "Poppins";
+}
+
 /* typography classes */
-.font-baloo {
+/* .font-baloo {
     font-family: "Baloo Thambi 2", cursive;
 }
 
 .font-rale {
     font-family: "Raleway", cursive;
-}
+}*/
 
-.font-rubik {
-    font-family: "Rubik", cursive;
-}
+.font-poppins {
+    font-family: "Poppins";
+} 
 
 .font-size-12 {
     font-size: 12px;
@@ -50,6 +55,14 @@ button, button:focus {
 
 .color-second-bg {
     background: #00A5C4;
+}
+
+.color-nav {
+    color: #2c2c2c;
+}
+
+.color-nav-bg {
+    background: #2c2c2c;
 }
 
 .color-yellow {
@@ -101,3 +114,5 @@ button, button:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* log in */
